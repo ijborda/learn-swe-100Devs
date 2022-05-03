@@ -30,6 +30,7 @@
 				<li>Watch: <a href="https://www.youtube.com/watch?v=Z-zNHHpXoMM">How to Study for Exams - Spaced Repetition | Evidence-based revision tips</a></li>
 				<li>Do: <a href="https://www.coursera.org/learn/learning-how-to-learn">Coursera - Learning How to Learn: Powerful mental tools to help you master tough subjects</a></li>
 			</ul>
+			<a href="https://forms.gle/9FYrUMFKMk4MpEZG7">Submission Link - Coursera Learn How To Learn Homework Submission</a>
 		</td>
 	</tr>
 </table>
@@ -62,71 +63,72 @@
 				<li>Build: <a href="https://www.bbc.com">HTML for BBC Website (just what is in the attached image)</a></li>
 				<li>Use: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN</a></li>
 			</ul>
+			<a href="https://forms.gle/inMYVvbEZt2fmzng9">Submission Link - BBC Homework Submission</a>
 		</td>
 	</tr>
 </table>
 
 ## Week 2
 
-### Class 3: x
+### Class 3: Learn More HTML!
 <table width="100%" margin-left="auto" margin-right="auto">
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class x)</th>
+		<th>Homeworks (Due: Class 5)</th>
 	</tr>
 	<tr>
 		<td width="20%">
 			<ul>
-				<li><a href="x">Pre-class message</a></li>
-				<li><a href="x">Post-class message</a></li>
-				<li><a href="x">Check-In - Twitter</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/933126749653434408">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/933198767174348810">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1483567676626653185">Check-In - Twitter</a></li>
 			</ul>
 		</td>
 		<td width="20%">
 			<ul>
-				<li><a href="x">Motivation</a></li>
-				<li><a href="x">Slides</a></li>
-				<li><a href="x">Recording - Youtube</a></li>
+				<li><a href="https://www.familyfriendpoems.com/poem/have-you-earned-your-tomorrow-by-edgar-albert-guest">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-html-even-more-basics">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=rdWM6kUImjE">Recording - Youtube</a></li>
 			</ul>
 		</td>
 		<td width="40%">
 			<ul>
-				<li>x: <a href="x">x</a></li>
-				<li>x: <a href="x">x</a></li>
-				<li>x: <a href="x">x</a></li>
+				<li>Read: <a href="https://learnlayout.com/">Learn CSS Layout</a></li>
+				<li>Finish: Labs From Class-03 - BBC, Khan Academy, Tech Crunch</li>
 			</ul>
 		</td>
 	</tr>
 </table>
 
-### Class 4: x
+### Class 4: Learn CSS in 2022
 <table width="100%" margin-left="auto" margin-right="auto">
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class x)</th>
+		<th>Homeworks (Due: Class 6)</th>
 	</tr>
 	<tr>
 		<td width="20%">
 			<ul>
-				<li><a href="x">Pre-class message</a></li>
-				<li><a href="x">Post-class message</a></li>
-				<li><a href="x">Check-In - Twitter</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/933851316575432814">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/933917040618659851">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1484292275064631297">Check-In - Twitter</a></li>
 			</ul>
 		</td>
 		<td width="20%">
 			<ul>
-				<li><a href="x">Motivation</a></li>
-				<li><a href="x">Slides</a></li>
-				<li><a href="x">Recording - Youtube</a></li>
+				<li><a href="https://youtu.be/6vuetQSwFW8">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-css-the-basics/">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=Q1Obtn29twk">Recording - Youtube</a></li>
 			</ul>
 		</td>
 		<td width="40%">
 			<ul>
-				<li>x: <a href="x">x</a></li>
-				<li>x: <a href="x">x</a></li>
-				<li>x: <a href="x">x</a></li>
+				<li>Do: Finish Simple Site Lab from class-04 (HTML & CSS)</li>
+				<li>Read: <a href="https://learnlayout.com/">Learn CSS Layout</a></li>
+				<li>Do: <a href="https://www.typingtest.com/">Typing - Five Minute Test</a></li>
+				<li>Do: <a href="https://www.keybr.com/">Practice Typing</a></li>
 			</ul>
 		</td>
 	</tr>

@@ -96,8 +96,8 @@
 			<ul>
 				<li>Read: <a href="https://learnlayout.com/">Learn CSS Layout</a></li>
 				<li>Finish: Labs From Class-03 - BBC, Khan Academy, Tech Crunch</li>
-				<a href="https://forms.gle/w9Awq51mxmcYHy4h7">Submission Link - Khan Academy & Techcrunch Homework Submission</a>
 			</ul>
+			<a href="https://forms.gle/w9Awq51mxmcYHy4h7">Submission Link - Khan Academy & Techcrunch Homework Submission</a>
 		</td>
 	</tr>
 </table>
@@ -143,7 +143,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 6 (New - first two) and Class 7 (Last one))</th>
+		<th>Homeworks (Due: Class 6 (New - first two) and Class 8 (Last one))</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -176,7 +176,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (None)</th>
+		<th>Homeworks (Due: Class 8)</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -194,6 +194,75 @@
 			</ul>
 		</td>
 		<td width="40%">
-			None
+			<ul>
+				<li>Do: Make 15 minutes of pain responsive</li>
+				<li>Read: <a href="https://learn.shayhowe.com/advanced-html-css/">Learn to Code Advanced HTML & CSS</a></li>
+			</ul>
+			<a href="https://forms.gle/AaoHzDEXm3Hjc7JL8">Submission Link - Mins Responsive Homework Submission</a>
+	</tr>
+</table>
+
+## Week 4
+
+### Class 7: Learn Responsive CSS in 2022!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (Due: Class 9)</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/938199963907788850">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/938271840583966751">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1488640947722145792">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="x">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-css-responsive-basics">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=k8r3B0JGMt4">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>Read: <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox">A Complete Guide to Flexbox</a></li>
+				<li>Do: <a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li>
+				<li>Watch: Independence Day</li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+### Class 8: Write Bad CSS in 2022!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (Due: Class 10)</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/938924961664495666">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/938990161579094047">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1489365690217754628">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-css-responsive-review">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=PWVRSXQxsXc">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>Do: The 3 layouts we did in clas</li>
+				<li>Do: The Level Ground & Source Layouts in the homework-layout-photos</li>
+				<li>Do (Push): Pushwork Homepage and add media queries to other layouts</li>
+			</ul>
+		</td>
 	</tr>
 </table>

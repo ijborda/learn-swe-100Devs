@@ -25,9 +25,9 @@
 	<tr>
 		<td width="20%">
 			<ul>
-				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/930589829392138331">Class Announcement and Materials</a></li>
-				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/930668371471642665">Post Class Message and Solution</a></li>
-				<li><a href="https://twitter.com/leonnoel/status/1481030723347746816">Check-In / Share - Twitter</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/930589829392138331">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/930668371471642665">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1481030723347746816">Check-In - Twitter</a></li>
 			</ul>
 		</td>
 		<td width="20%">

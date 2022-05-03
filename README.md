@@ -234,6 +234,7 @@
 			</ul>
 		</td>
 	</tr>
+</table>
 
 ### Class 8: Write Bad CSS in 2022!
 <table width="100%" margin-left="auto" margin-right="auto">

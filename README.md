@@ -18,31 +18,26 @@
 ### Class 1: Become A Software Engineer For Free 2022
 <table width="100%" margin-left="auto" margin-right="auto">
 	<tr>
-		<th>Discord Messages</th>
+		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Others</th>
 		<th>Homeworks (Due: Class 3)</th>
 	</tr>
 	<tr>
-		<td width="25%%">
+		<td width="33.33%">
 			<ul>
 				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/930589829392138331">Class Announcement and Materials</a></li>
 				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/930668371471642665">Post Class Message and Solution</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1481030723347746816">Check-In / Share - Twitter</a></li>
 			</ul>
 		</td>
-		<td width="25%%">
+		<td width="33.33%">
 			<ul>
+				<li><a href="https://www.poetryfoundation.org/poems/51642/invictus">Motivation</a></li>
 				<li><a href="https://slides.com/leonnoel/100devs2-html-the-basics">Slides</a></li>
 				<li><a href="https://www.youtube.com/watch?v=o3IIobN4xR0">Recording - Youtube</a></li>
 			</ul>
 		</td>
-		<td width="25%%">
-			<ul>
-				<li><a href="https://www.poetryfoundation.org/poems/51642/invictus">Motivation</a></li>
-				<li><a href="https://twitter.com/leonnoel/status/1481030723347746816">Check-In / Share - Twitter</a></li>
-			</ul>
-		</td>
-		<td width="25%%">
+		<td width="33.33%">
 			<ul>
 				<li><a href="https://youtu.be/ukLnPbIffxE">Watch: How to study for exams - Evidence-based revision tips</a></li>
 				<li><a href="https://www.youtube.com/watch?v=Z-zNHHpXoMM">How to Study for Exams - Spaced Repetition | Evidence-based revision tips</a></li>

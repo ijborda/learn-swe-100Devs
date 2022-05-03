@@ -228,16 +228,13 @@
 		</td>
 		<td width="40%">
 			<ul>
-				<li>Do: The 3 layouts we did in clas</li>
+				<li>Read: <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox">A Complete Guide to Flexbox by Chris Coyier</a></li>
 				<li>Do: <a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li>
 				<li>Watch: Independence Day</li>
 			</ul>
 		</td>
 	</tr>
 </table>
-<!-- 
-				<li>Read: <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox">A Complete Guide to Flexbox</a></li>
-				<li>Do: /li> -->
 
 ### Class 8: Write Bad CSS in 2022!
 <table width="100%" margin-left="auto" margin-right="auto">

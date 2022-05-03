@@ -228,17 +228,16 @@
 		</td>
 		<td width="40%">
 			<ul>
-				<li>Read: <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox">A Complete Guide to Flexbox</a></li>
-				<li>Do: <a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li>
+				<li>Do: The 3 layouts we did in clas</li>
+				<li>Do: The Level Ground & Source Layouts in the homework-layout-photos</li>
 				<li>Watch: Independence Day</li>
 			</ul>
 		</td>
 	</tr>
 </table>
 <!-- 
-				<li>Do: The 3 layouts we did in clas</li>
-				<li>Do: The Level Ground & Source Layouts in the homework-layout-photos</li>
-				<li>Do (Push): Pushwork Homepage and add media queries to other layouts</li> -->
+				<li>Read: <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox">A Complete Guide to Flexbox</a></li>
+				<li>Do: <a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li> -->
 
 ### Class 8: Write Bad CSS in 2022!
 <table width="100%" margin-left="auto" margin-right="auto">

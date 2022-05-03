@@ -307,7 +307,7 @@
 		<td width="20%">
 			<ul>
 				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/941461787184861294">Pre-class message</a></li>
-				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/941514711323799572">Post-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/941517790710485032">Post-class message</a></li>
 				<li><a href="https://twitter.com/leonnoel/status/1491902703861071872">Check-In - Twitter</a></li>
 			</ul>
 		</td>
@@ -323,6 +323,74 @@
 				<li>Watch: <a href="https://www.youtube.com/watch?v=hdI2bqOjy3c">JavaScript Crash Course For Beginners</a></li>
 				<li>Do (Push): <a href="x">Pushwork Homepage and add media queries to other layouts</a></li>
 			</ul>
+		</td>
+	</tr>
+</table>
+
+## Week 6
+
+### Class 11: Learn CSS Layout & Flexbox in 2022!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (None, but here are more resources)</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/943273619239358474">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/943342680124059709">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1493714553649041408">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-css-review-flexbox">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=qEj0pXGVwjY">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>Read: <a href="https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/">CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet</a></li>
+				<li>Watch: <a href="https://youtu.be/JJSoEo8JSnc">Flexbox CSS In 20 Minutes</a></li>
+				<li>Play: <a href="https://mastery.games/flexboxzombies/">Mastery Games - Flexbox Zombies</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+### Class 12: Learn JavaScript in 2022!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (Due: Class 13)</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/943998243044474911">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/944064617972387891">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1494439359726043141">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://youtu.be/01CL029k7pU">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-javascript-basics">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=_A20kVsaqIk">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>Do: Plan out your networking!</li>
+				<li>Read/Do: <a href="https://javascript.info/variables">JavaScript Info - Variables</a></li>
+				<li>Read/Do: <a href="https://javascript.info/function-basics ">JavaScript Info - Functions Basic</a></li>
+				<li>Do: Delete the JS and do it again for all assignments</li>
+				<li>Do: Something special for yourself this weekend</li>
+			</ul>
+			<a href="https://forms.gle/https://forms.gle/7r1obfquRuih9BEu7">Submission Link - Layouts Homework Submission</a>
 		</td>
 	</tr>
 </table>

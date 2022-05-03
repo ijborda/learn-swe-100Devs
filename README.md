@@ -221,29 +221,6 @@
 		</td>
 		<td width="20%">
 			<ul>
-				<li><a href="https://slides.com/leonnoel/100devs2-css-responsive-review">Slides</a></li>
-				<li><a href="https://www.youtube.com/watch?v=PWVRSXQxsXc">Recording - Youtube</a></li>
-			</ul>
-		</td>
-		<td width="40%">
-			<ul>
-				<li>Do: The 3 layouts we did in clas</li>
-				<li>Do: The Level Ground & Source Layouts in the homework-layout-photos</li>
-				<li>Do (Push): Pushwork Homepage and add media queries to other layouts</li>
-			</ul>
-		</td>
-	</tr>
-</table>
-<!-- <table width="100%" margin-left="auto" margin-right="auto">
-	<tr>
-
-	</tr>
-	<tr>
-		<td width="20%">
-
-		</td>
-		<td width="20%">
-			<ul>
 				<li><a href="x">Motivation</a></li>
 				<li><a href="https://slides.com/leonnoel/100devs2-css-responsive-basics">Slides</a></li>
 				<li><a href="https://www.youtube.com/watch?v=k8r3B0JGMt4">Recording - Youtube</a></li>
@@ -257,7 +234,11 @@
 			</ul>
 		</td>
 	</tr>
-</table> -->
+</table>
+<!-- 
+				<li>Do: The 3 layouts we did in clas</li>
+				<li>Do: The Level Ground & Source Layouts in the homework-layout-photos</li>
+				<li>Do (Push): Pushwork Homepage and add media queries to other layouts</li> -->
 
 ### Class 8: Write Bad CSS in 2022!
 <table width="100%" margin-left="auto" margin-right="auto">

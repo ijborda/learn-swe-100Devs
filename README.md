@@ -266,3 +266,63 @@
 		</td>
 	</tr>
 </table>
+
+## Week 5
+
+### Class 9: Networking Night!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (None)</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/940736761158565919">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/940800147829448754">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1491177563003453440">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-networking-night">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=OaglXfjsBaE">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			None
+		</td>
+	</tr>
+</table>
+
+### Class 10: Rant & Review!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (Due: Class 12)</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/941461787184861294">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/941514711323799572">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1491902703861071872">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://youtu.be/E9MOhxS46d8">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs-css-review-homework">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=WftjV2L7oyk">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>Watch: <a href="https://www.youtube.com/watch?v=hdI2bqOjy3c">JavaScript Crash Course For Beginners</a></li>
+				<li>Do (Push): <a href="x">Pushwork Homepage and add media queries to other layouts</a></li>
+			</ul>
+		</td>
+	</tr>
+</table>

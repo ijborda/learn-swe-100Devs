@@ -221,7 +221,7 @@
 		</td>
 		<td width="20%">
 			<ul>
-				<li><a href="x">Motivation</a></li>
+				<li><a href="">Motivation</a></li>
 				<li><a href="https://slides.com/leonnoel/100devs2-css-responsive-basics">Slides</a></li>
 				<li><a href="https://www.youtube.com/watch?v=k8r3B0JGMt4">Recording - Youtube</a></li>
 			</ul>
@@ -321,7 +321,7 @@
 		<td width="40%">
 			<ul>
 				<li>Watch: <a href="https://www.youtube.com/watch?v=hdI2bqOjy3c">JavaScript Crash Course For Beginners</a></li>
-				<li>Do (Push): <a href="x">Pushwork Homepage and add media queries to other layouts</a></li>
+				<li>Do (Push): <a href="">Pushwork Homepage and add media queries to other layouts</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -467,3 +467,140 @@
 		</td>
 	</tr>
 </table>
+
+## Week 8
+
+### Class 15: How To Start Freelancing in 2022!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (Due: Class 17)</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/948346759145467924">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/948411146669522944">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1498787819933691905">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://youtu.be/jVkLVRt6c1U">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-intro-to-freelancing">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=68Li7ukgDKg">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>Do: Setup your portfolio</li>
+				<li>Do: Draft your proposal / contract</li>
+			</ul>
+			<a href="https://forms.gle/G7LhHnyTA7zYq7UV6">Submission Link - JS Homework Submission</a>
+		</td>
+	</tr>
+</table>
+
+### Class 16: Learn JavaScript Loops!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (Due: Class 19)</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/949071598755917844">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/949142934710788166">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1499512575393820677">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://allpoetry.com/poem/8624439-Thinking-by-Walter-D-Wintle">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-js-review-loops">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=av6iPI_zJTU">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>Read: <a href="https://www.poetryfoundation.org/poems/51642/invictus">Poetry - Invictus</a></li>
+				<li>Read: <a href="https://github.com/bpesquet/thejsway">(3, 2, 1... Code! through Write Functions)</a></li>
+				<li>Read: <a href="http://eloquentjavascript.net/3rd_edition/">Eloquent JavaScript (Chapters 1 - 3)</a></li>
+				<li>Do: <a href="https://www.codecademy.com/learn/introduction-to-javascript">Code Academy (1-6)</a></li>
+				<li>Watch: <a href="https://youtu.be/SWYqp7iY_Tc">Git & GitHub Crash Course For Beginners</a></li>
+				<li>Extra Reading: <a href="https://jwiegley.github.io/git-from-the-bottom-up/">Git from the Bottom Up</a></li>
+				<li>Don't Do - Play yo self - start early even though you have more than a week because this is a lot and very important</li>
+			</ul>
+			<a href="https://forms.gle/q9qvPkrH5jKgEfxBA">Submission Link - JS Homework Submission</a>
+		</td>
+	</tr>
+</table>
+
+<!-- ## Week 2
+
+### Class 3: 
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (Due: Class )</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="">Pre-class message</a></li>
+				<li><a href="">Post-class message</a></li>
+				<li><a href="">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="">Motivation</a></li>
+				<li><a href="">Slides</a></li>
+				<li><a href="">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>: <a href=""></a></li>
+				<li>: <a href=""></a></li>
+				<li>: <a href=""></a></li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+### Class 4: 
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (Due: Class )</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="">Pre-class message</a></li>
+				<li><a href="">Post-class message</a></li>
+				<li><a href="">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="">Motivation</a></li>
+				<li><a href="">Slides</a></li>
+				<li><a href="">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>: <a href=""></a></li>
+				<li>: <a href=""></a></li>
+				<li>: <a href=""></a></li>
+			</ul>
+		</td>
+	</tr>
+</table> -->

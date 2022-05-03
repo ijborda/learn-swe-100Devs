@@ -209,14 +209,14 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 10)</th>
+		<th>Homeworks (Due: Class 9)</th>
 	</tr>
 	<tr>
 		<td width="20%">
 			<ul>
-				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/938924961664495666">Pre-class message</a></li>
-				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/938990161579094047">Post-class message</a></li>
-				<li><a href="https://twitter.com/leonnoel/status/1489365690217754628">Check-In - Twitter</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/938199963907788850">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/938271840583966751">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1488640947722145792">Check-In - Twitter</a></li>
 			</ul>
 		</td>
 		<td width="20%">
@@ -236,17 +236,11 @@
 </table>
 <!-- <table width="100%" margin-left="auto" margin-right="auto">
 	<tr>
-		<th>Messages / Socials</th>
-		<th>Materials</th>
-		<th>Homeworks (Due: Class 9)</th>
+
 	</tr>
 	<tr>
 		<td width="20%">
-			<ul>
-				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/938199963907788850">Pre-class message</a></li>
-				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/938271840583966751">Post-class message</a></li>
-				<li><a href="https://twitter.com/leonnoel/status/1488640947722145792">Check-In - Twitter</a></li>
-			</ul>
+
 		</td>
 		<td width="20%">
 			<ul>

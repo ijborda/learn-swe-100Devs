@@ -394,3 +394,76 @@
 		</td>
 	</tr>
 </table>
+
+## Week 7
+
+### Class 13: Fun JavaScript Examples!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (Due: Class 15)</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/945810363939696700">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/945877319334133820">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1496251214304264193">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://youtu.be/dV9worye5g0">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-javascript-more-basics">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=pS6ykGL-fRE">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>Do: NETWORK!</li>
+				<li>Read/Do: <a href="https://javascript.info/function-expressions">JavaScript Info - Function Expressions</a></li>
+				<li>Read/Do: <a href="https://javascript.info/arrow-functions-basics">JavaScript Info - Arrow Functions Basics</a></li>
+				<li>Read/Do: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md">The JS Way - Repeat statements</a></li>
+				<li>Do: Delete the JS and do it again for all assignments</li>
+			</ul>
+			<a href="https://forms.gle/G7LhHnyTA7zYq7UV6">Submission Link - JS Homework Submission</a>
+		</td>
+	</tr>
+</table>
+
+### Class 14: JavaScript Functions For Beginners!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (Due: Class 16)</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/946534798111944744">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/946606373389615174">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1496975838327107591">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="http://poemsspeak.blogspot.com/2016/12/poetry-speaks.html">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-javascript-more-basics-again">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=cBWUvTZPeKw">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>COMMENT OUT YOUR JS</li>
+				<li>TYPE IT ALL OUT AGAIN WITHOUT LOOKING</li>
+				<li>PEAK IF YOU HAVE TOO</li>
+				<li>REPEAT UNTIL YOU DO NOT HAVE TO PEAK</li>
+				<li>DELETE YOUR JS ENTIRELY</li>
+				<li>AND DO IT AGAIN</li>
+				<li>THEN DO IT AGAIN BUT CHANGE SOMETHING!</li>
+			</ul>
+		</td>
+	</tr>
+</table>

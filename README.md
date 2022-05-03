@@ -96,12 +96,13 @@
 			<ul>
 				<li>Read: <a href="https://learnlayout.com/">Learn CSS Layout</a></li>
 				<li>Finish: Labs From Class-03 - BBC, Khan Academy, Tech Crunch</li>
+				<a href="https://forms.gle/w9Awq51mxmcYHy4h7">Submission Link - Khan Academy & Techcrunch Homework Submission</a>
 			</ul>
 		</td>
 	</tr>
 </table>
 
-### Class 4: Learn CSS in 2022
+### Class 4: Learn CSS in 2022!
 <table width="100%" margin-left="auto" margin-right="auto">
 	<tr>
 		<th>Messages / Socials</th>
@@ -130,6 +131,69 @@
 				<li>Do: <a href="https://www.typingtest.com/">Typing - Five Minute Test</a></li>
 				<li>Do: <a href="https://www.keybr.com/">Practice Typing</a></li>
 			</ul>
+			<a href="https://forms.gle/rvPhDrbp56DQKgPaA">Submission Link - Simple Site Lab & Layouts Homework Submission</a>
 		</td>
+	</tr>
+</table>
+
+## Week 3
+
+### Class 5: Learn CSS Layout in 2022!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (Due: Class 6 (New - first two) and Class 7 (Last one))</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/935663546036015136">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/935737646284677141">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1486104346227970050">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://youtu.be/3sK3wJAxGfs">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-css-more-basics">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=E6Z8cWU_fjI">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>Do: Complete The Three Layouts (last few slides)</li>
+				<li>Read: <a href="https://learn.shayhowe.com/advanced-html-css/responsive-web-design/">Responsive Web Design</a></li>
+				<li>Read: <a href="https://learn.shayhowe.com/advanced-html-css/">Learn to Code Advanced HTML & CSS</a></li>
+			</ul>
+			<a href="https://forms.gle/rvPhDrbp56DQKgPaA">Submission Link - Simple Site Lab & Layouts Homework Submission</a>
+		</td>
+	</tr>
+</table>
+
+### Class 6: Let's Review HTML & CSS!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks (None)</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/936388216502775840">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/936454296709509201">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1486829337026260994">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://youtu.be/7Oxz060iedY">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-review-and-responsive">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=L55ax0blZY0">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			None
 	</tr>
 </table>

@@ -764,6 +764,82 @@
 	</tr>
 </table>
 
+## Week 12
+
+### Class 23: JavaScript APIs For Beginners!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/958478507548225566">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/958545682803871785">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1508919468193312769">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://www.familyfriendpoems.com/poem/have-you-earned-your-tomorrow-by-edgar-albert-guest ">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-javascript-objects-fun-time">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=qnmKELgyXc0">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 24:
+			<ul>
+				<li>Watch Do: <a href="https://youtu.be/PFmuCDHHpwk">Object-oriented Programming in JavaScript: Made Super Simple | Mosh</a></li>
+				<li>Watch: <a href="https://youtu.be/0fKg7e37bQE​">Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics</a></li>
+				<li>Do: <a href="https://aka.ms/learnwithleon">Intro. To Github (Sponsored)</a></li>
+				<li>Read/Do (Push): <a href="https://javascript.info/ ">JS info - Whole Chapter - Objects: the basics</a></li>
+				<li>Read (Push): <a href="https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219">Pillars of OOP </a></li>
+				<li>Do (Push): <a href="https://github.com/leonnoel/100devs-calculator">Complete and Submit this project (Calculator - 100Devs)</a></li>
+			</ul>
+			No submissions today
+		</td>
+	</tr>
+</table>
+
+### Class 24: Git And Github For Beginners in 2022!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/959203345862651945">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/959273287358238720">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1509644411528835084">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://github.com/git-guides/install-git">Install Git</a></li>
+				<li><a href="https://www.theodinproject.com/courses/foundations/lessons/setting-up-git">Setting up Git</a></li>
+				<li><a href="https://ubuntu.com/wsl">WSL</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-intro-to-git-and-github">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=UpsonO_vBNk">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 25:
+			<ul>
+				<li>Do: <a href="https://aka.ms/learnwithleon">Intro. To Github (Sponsored)</a></li>
+				<li>Read/Do (Push): <a href="https://javascript.info/ ">JS info - Whole Chapter - Objects: the basics</a></li>
+				<li>Read (Push): <a href="https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219">Pillars of OOP </a></li>
+				<li>Do (Push): <a href="https://github.com/leonnoel/100devs-calculator">Complete and Submit this project (Calculator - 100Devs)</a></li>
+			</ul>
+			No submissions today
+		</td>
+	</tr>
+</table>
+
 <!-- ## Week 2
 
 ### Class 3: 

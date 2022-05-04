@@ -1017,7 +1017,7 @@ No classes
 			</ul>
 		</td>
 		<td width="40%">
-			Due Class 33:
+			Due Class 31:
 			<ul>
 				<li>Watch/Do: <a href="https://youtu.be/PFmuCDHHpwk">Object-oriented Programming in JavaScript: Made Super Simple | Mosh</a></li>
 				<li>Read/Do: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md">JS way - Understand object-oriented programming</a></li>
@@ -1053,7 +1053,7 @@ No classes
 			</ul>
 		</td>
 		<td width="40%">
-			Due Class 33:
+			Due Class 31:
 			<ul>
 				<li>Watch/Do: <a href="https://youtu.be/PFmuCDHHpwk">Object-oriented Programming in JavaScript: Made Super Simple | Mosh</a></li>
 				<li>Read/Do: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md">JS way - Understand object-oriented programming</a></li>
@@ -1065,6 +1065,75 @@ No classes
 		</td>
 	</tr>
 </table>
+
+## Week 17
+
+### Class 31: More OOP Baby!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/971162583497318409">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/971229912428064839">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1521603078406897664">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-javascript-oop-part-2">Slides</a></li>
+				<li><a href="https://www.twitch.tv/learnwithleon/video/1474308753">Recording - Twitch</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 32:
+			<ul>
+				<li>DO: Please review, play, and break the code we go over tonight. Get lost in it, come with questions, and ready to review on Thursday.</li>
+				<li>DO: Get a paid client, Volunteer, or Contribute To Free Software</li>
+				<li>Do/Finish: <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Checklist</a></li>
+				<li>Do (Push): Codewars Array Ladder (search array problems) - 8kyu, 7kyu, 6kyu, 7kyu, 8kyu</li>
+			</ul>
+			No submissions today
+		</td>
+	</tr>
+</table>
+
+<!-- ### Class 32: 
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="">Pre-class message</a></li>
+				<li><a href="">Post-class message</a></li>
+				<li><a href="">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="">Motivation</a></li>
+				<li><a href="">Slides</a></li>
+				<li><a href="">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>
+				<li>: <a href=""></a></li>
+				<li>: <a href=""></a></li>
+				<li>: <a href=""></a></li>
+			</ul>
+			<a href="https://forms.gle/q9qvPkrH5jKgEfxBA">Submission Link - JS Homework Submission</a>
+		</td>
+	</tr>
+</table> -->
 
 <!-- ## Week 2
 

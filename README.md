@@ -269,6 +269,7 @@
 				<li>Watch: Independence Day</li>
 				<li>Do: Layout Assignment (will share Thursday)</li>
 			</ul>
+			No submissions today
 		</td>
 	</tr>
 </table>
@@ -747,6 +748,7 @@
 				<li>Do: <a href="https://codewars.com/">Minimum of 1 Codewars 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!</a></li>
 				<li>Do: <a href="https://javascript30.com/">Day 04 Array Cardio</a></li>
 			</ul>
+			No submissions today
 		</td>
 	</tr>
 </table>
@@ -783,6 +785,7 @@
 				<li>Do: <a href="https://codewars.com/">Minimum of 1 Codewars 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!</a></li>
 				<li>Do: <a href="https://javascript30.com/">Day 04 Array Cardio</a></li>
 			</ul>
+			No submissions today
 		</td>
 	</tr>
 </table>

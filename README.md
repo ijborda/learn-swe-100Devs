@@ -7,7 +7,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 3)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -25,12 +25,12 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 3:
 			<ul>
 				<li>Watch: <a href="https://youtu.be/ukLnPbIffxE">How to study for exams - Evidence-based revision tips</a></li>
 				<li>Watch: <a href="https://www.youtube.com/watch?v=Z-zNHHpXoMM">How to Study for Exams - Spaced Repetition | Evidence-based revision tips</a></li>
 				<li>Do: <a href="https://www.coursera.org/learn/learning-how-to-learn">Coursera - Learning How to Learn: Powerful mental tools to help you master tough subjects</a></li>
 			</ul>
-			<a href="https://forms.gle/9FYrUMFKMk4MpEZG7">Submission Link - Coursera Learn How To Learn Homework Submission</a>
 		</td>
 	</tr>
 </table>
@@ -40,7 +40,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 4)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -58,12 +58,18 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 3:
+			<ul>
+				<li>Watch: <a href="https://youtu.be/ukLnPbIffxE">How to study for exams - Evidence-based revision tips</a></li>
+				<li>Watch: <a href="https://www.youtube.com/watch?v=Z-zNHHpXoMM">How to Study for Exams - Spaced Repetition | Evidence-based revision tips</a></li>
+				<li>Do: <a href="https://www.coursera.org/learn/learning-how-to-learn">Coursera - Learning How to Learn: Powerful mental tools to help you master tough subjects</a></li>
+			</ul>
+			Due Class 4:
 			<ul>
 				<li>Read: <a href="https://learn.shayhowe.com/html-css/">Learn to Code HTML & CSS</a></li>
 				<li>Build: <a href="https://www.bbc.com">HTML for BBC Website (just what is in the attached image)</a></li>
 				<li>Use: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN</a></li>
 			</ul>
-			<a href="https://forms.gle/inMYVvbEZt2fmzng9">Submission Link - BBC Homework Submission</a>
 		</td>
 	</tr>
 </table>
@@ -75,7 +81,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 5)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -93,11 +99,17 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 4:
+			<ul>
+				<li>Read: <a href="https://learn.shayhowe.com/html-css/">Learn to Code HTML & CSS</a></li>
+				<li>Build: <a href="https://www.bbc.com">HTML for BBC Website (just what is in the attached image)</a></li>
+			</ul>
+			Due Class 5:
 			<ul>
 				<li>Read: <a href="https://learnlayout.com/">Learn CSS Layout</a></li>
 				<li>Finish: Labs From Class-03 - BBC, Khan Academy, Tech Crunch</li>
 			</ul>
-			<a href="https://forms.gle/w9Awq51mxmcYHy4h7">Submission Link - Khan Academy & Techcrunch Homework Submission</a>
+			<a href="https://forms.gle/9FYrUMFKMk4MpEZG7">Submission Link - Coursera Learn How To Learn Homework Submission</a>
 		</td>
 	</tr>
 </table>
@@ -107,7 +119,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 6)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -125,13 +137,18 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 5:
+			<ul>
+				<li>Finish: Labs From Class-03 - BBC, Khan Academy, Tech Crunch (JUST HTML)</li>
+			</ul>
+			Due Class 6:
 			<ul>
 				<li>Do: Finish Simple Site Lab from class-04 (HTML & CSS)</li>
 				<li>Read: <a href="https://learnlayout.com/">Learn CSS Layout</a></li>
 				<li>Do: <a href="https://www.typingtest.com/">Typing - Five Minute Test</a></li>
 				<li>Do: <a href="https://www.keybr.com/">Practice Typing</a></li>
 			</ul>
-			<a href="https://forms.gle/rvPhDrbp56DQKgPaA">Submission Link - Simple Site Lab & Layouts Homework Submission</a>
+			<a href="https://forms.gle/inMYVvbEZt2fmzng9">Submission Link - BBC Homework Submission</a>
 		</td>
 	</tr>
 </table>
@@ -143,7 +160,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 6 (New - first two) and Class 8 (Last one))</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -161,12 +178,20 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 6:
 			<ul>
+				<li>Do: Finish Simple Site Lab from class-04 (HTML & CSS)</li>
+				<li>Read: <a href="https://learnlayout.com/">Learn CSS Layout</a></li>
+				<li>Do: <a href="https://www.typingtest.com/">Typing - Five Minute Test</a></li>
+				<li>Do: <a href="https://www.keybr.com/">Practice Typing</a></li>
 				<li>Do: Complete The Three Layouts (last few slides)</li>
 				<li>Read: <a href="https://learn.shayhowe.com/advanced-html-css/responsive-web-design/">Responsive Web Design</a></li>
+			</ul>
+			Due Class 8:
+			<ul>	
 				<li>Read: <a href="https://learn.shayhowe.com/advanced-html-css/">Learn to Code Advanced HTML & CSS</a></li>
 			</ul>
-			<a href="https://forms.gle/rvPhDrbp56DQKgPaA">Submission Link - Simple Site Lab & Layouts Homework Submission</a>
+			<a href="https://forms.gle/w9Awq51mxmcYHy4h7">Submission Link - Khan Academy & Techcrunch Homework Submission</a>
 		</td>
 	</tr>
 </table>
@@ -176,7 +201,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 8)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -194,11 +219,14 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 8:
 			<ul>
 				<li>Do: Make 15 minutes of pain responsive</li>
+				<li>Read: <a href="https://learnlayout.com/">Learn CSS Layout</a></li>
 				<li>Read: <a href="https://learn.shayhowe.com/advanced-html-css/">Learn to Code Advanced HTML & CSS</a></li>
+				<li>Do: <a href="https://www.keybr.com/">Practice Typing</a></li>
 			</ul>
-			<a href="https://forms.gle/AaoHzDEXm3Hjc7JL8">Submission Link - Mins Responsive Homework Submission</a>
+			<a href="https://forms.gle/rvPhDrbp56DQKgPaA">Submission Link - Simple Site Lab & Layouts Homework Submission</a>
 	</tr>
 </table>
 
@@ -209,7 +237,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 9)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -227,10 +255,19 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 8:
+			<ul>
+				<li>Do: Make 15 minutes of pain responsive</li>
+				<li>Read: <a href="https://learnlayout.com/">Learn CSS Layout</a></li>
+				<li>Read: <a href="https://learn.shayhowe.com/advanced-html-css/">Learn to Code Advanced HTML & CSS</a></li>
+				<li>Do: <a href="https://www.keybr.com/">Practice Typing</a></li>
+			</ul>
+			Due Class 9:
 			<ul>
 				<li>Read: <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox">A Complete Guide to Flexbox by Chris Coyier</a></li>
 				<li>Do: <a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li>
 				<li>Watch: Independence Day</li>
+				<li>Do: Layout Assignment (will share Thursday)</li>
 			</ul>
 		</td>
 	</tr>
@@ -241,7 +278,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 10)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -258,11 +295,19 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 9:
+			<ul>
+				<li>Read: <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox">A Complete Guide to Flexbox by Chris Coyier</a></li>
+				<li>Do: <a href="http://flexboxfroggy.com/">Flexbox Froggy</a></li>
+				<li>Watch: Independence Day</li>
+			</ul>
+			Due Class 10:
 			<ul>
 				<li>Do: The 3 layouts we did in clas</li>
 				<li>Do: The Level Ground & Source Layouts in the homework-layout-photos</li>
 				<li>Do (Push): Pushwork Homepage and add media queries to other layouts</li>
 			</ul>
+			<a href="https://forms.gle/AaoHzDEXm3Hjc7JL8">Submission Link - Mins Responsive Homework Submission</a>
 		</td>
 	</tr>
 </table>
@@ -291,7 +336,13 @@
 			</ul>
 		</td>
 		<td width="40%">
-			None
+			Due Class 11 (Extended):
+			<ul>
+				<li>Do: The 3 layouts we did in clas</li>
+				<li>Do: The Level Ground & Source Layouts in the homework-layout-photos</li>
+				<li>Do (Push): Pushwork Homepage and add media queries to other layouts</li>
+			</ul>
+			No submissions today
 		</td>
 	</tr>
 </table>
@@ -319,10 +370,15 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 12 (Extended):
 			<ul>
+				<li>Do: The 3 layouts we did in clas</li>
+				<li>Do: The Level Ground & Source Layouts in the homework-layout-photos</li>
+				<li>Watch: Independence Day</li>
 				<li>Watch: <a href="https://www.youtube.com/watch?v=hdI2bqOjy3c">JavaScript Crash Course For Beginners</a></li>
 				<li>Do (Push): <a href="">Pushwork Homepage and add media queries to other layouts</a></li>
 			</ul>
+			No submissions today
 		</td>
 	</tr>
 </table>
@@ -334,7 +390,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (None, but here are more resources)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -351,11 +407,21 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 12 (Extended):
+			<ul>
+				<li>Do: The 3 layouts we did in clas</li>
+				<li>Do: The Level Ground & Source Layouts in the homework-layout-photos</li>
+				<li>Watch: Independence Day</li>
+				<li>Watch: <a href="https://www.youtube.com/watch?v=hdI2bqOjy3c">JavaScript Crash Course For Beginners</a></li>
+				<li>Do (Push): <a href="">Pushwork Homepage and add media queries to other layouts</a></li>
+			</ul>
+			Read More About Flexbox:
 			<ul>
 				<li>Read: <a href="https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/">CSS Flexbox Tutorial with Flexbox Properties Cheat Sheet</a></li>
 				<li>Watch: <a href="https://youtu.be/JJSoEo8JSnc">Flexbox CSS In 20 Minutes</a></li>
 				<li>Play: <a href="https://mastery.games/flexboxzombies/">Mastery Games - Flexbox Zombies</a></li>
 			</ul>
+			No submissions today
 		</td>
 	</tr>
 </table>
@@ -365,7 +431,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 13)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -383,6 +449,7 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 13:
 			<ul>
 				<li>Do: Plan out your networking!</li>
 				<li>Read/Do: <a href="https://javascript.info/variables">JavaScript Info - Variables</a></li>
@@ -402,7 +469,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 15)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -420,6 +487,7 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 15:
 			<ul>
 				<li>Do: NETWORK!</li>
 				<li>Read/Do: <a href="https://javascript.info/function-expressions">JavaScript Info - Function Expressions</a></li>
@@ -427,7 +495,7 @@
 				<li>Read/Do: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md">The JS Way - Repeat statements</a></li>
 				<li>Do: Delete the JS and do it again for all assignments</li>
 			</ul>
-			<a href="https://forms.gle/G7LhHnyTA7zYq7UV6">Submission Link - JS Homework Submission</a>
+			<a href="https://forms.gle/G7LhHnyTA7zYq7UV6">Submission Link - JS Homework Submission (Play with any of the JS and make changes? Submit it.)</a>
 		</td>
 	</tr>
 </table>
@@ -437,7 +505,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 16)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -455,6 +523,15 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 15:
+			<ul>
+				<li>Do: NETWORK!</li>
+				<li>Read/Do: <a href="https://javascript.info/function-expressions">JavaScript Info - Function Expressions</a></li>
+				<li>Read/Do: <a href="https://javascript.info/arrow-functions-basics">JavaScript Info - Arrow Functions Basics</a></li>
+				<li>Read/Do: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter04.md">The JS Way - Repeat statements</a></li>
+				<li>Do: Delete the JS and do it again for all assignments</li>
+			</ul>
+			Due Class 16:
 			<ul>
 				<li>COMMENT OUT YOUR JS</li>
 				<li>TYPE IT ALL OUT AGAIN WITHOUT LOOKING</li>
@@ -464,6 +541,7 @@
 				<li>AND DO IT AGAIN</li>
 				<li>THEN DO IT AGAIN BUT CHANGE SOMETHING!</li>
 			</ul>
+			No submissions today
 		</td>
 	</tr>
 </table>
@@ -475,7 +553,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 17)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -493,11 +571,22 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 16:
+			<ul>
+				<li>COMMENT OUT YOUR JS</li>
+				<li>TYPE IT ALL OUT AGAIN WITHOUT LOOKING</li>
+				<li>PEAK IF YOU HAVE TOO</li>
+				<li>REPEAT UNTIL YOU DO NOT HAVE TO PEAK</li>
+				<li>DELETE YOUR JS ENTIRELY</li>
+				<li>AND DO IT AGAIN</li>
+				<li>THEN DO IT AGAIN BUT CHANGE SOMETHING!</li>
+			</ul>
+			Due Class 17:
 			<ul>
 				<li>Do: Setup your portfolio</li>
 				<li>Do: Draft your proposal / contract</li>
 			</ul>
-			<a href="https://forms.gle/G7LhHnyTA7zYq7UV6">Submission Link - JS Homework Submission</a>
+			<a href="https://forms.gle/G7LhHnyTA7zYq7UV6">Submission Link - JS Homework Submission (Place your javascript.info tasks here)</a>
 		</td>
 	</tr>
 </table>
@@ -507,7 +596,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class 19)</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -525,6 +614,12 @@
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 17:
+			<ul>
+				<li>Do: Setup your portfolio</li>
+				<li>Do: Draft your proposal / contract</li>
+			</ul>
+			Due Class 19:
 			<ul>
 				<li>Read: <a href="https://www.poetryfoundation.org/poems/51642/invictus">Poetry - Invictus</a></li>
 				<li>Read: <a href="https://github.com/bpesquet/thejsway">(3, 2, 1... Code! through Write Functions)</a></li>
@@ -534,7 +629,7 @@
 				<li>Extra Reading: <a href="https://jwiegley.github.io/git-from-the-bottom-up/">Git from the Bottom Up</a></li>
 				<li>Don't Do - Play yo self - start early even though you have more than a week because this is a lot and very important</li>
 			</ul>
-			<a href="https://forms.gle/q9qvPkrH5jKgEfxBA">Submission Link - JS Homework Submission</a>
+			<a href="https://forms.gle/q9qvPkrH5jKgEfxBA">Submission Link - JS Homework Submission (Play with any of the JS and make changes? Submit here)</a>
 		</td>
 	</tr>
 </table>

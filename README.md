@@ -560,12 +560,12 @@
 			None
 		</td>
 		<td width="40%">
-			Due Class 18
+			Due Class 18:
 			<ul>
 				<li>Do: Draft of your portfolio</li>
 				<li>Do: Draft of your proposal / contract</li>
 			</ul>
-			Due Class 19
+			Due Class 19:
 			<ul>
 				<li>Read: <a href="https://www.poetryfoundation.org/poems/51642/invictus">Poetry - Invictus</a></li>
 				<li>Read: <a href="https://github.com/bpesquet/thejsway">(3, 2, 1... Code! through Write Functions)</a></li>
@@ -575,7 +575,7 @@
 				<li>Extra Reading: <a href="https://jwiegley.github.io/git-from-the-bottom-up/">Git from the Bottom Up</a></li>
 				<li>Don't Do - Play yo self - start early even though you have more than a week because this is a lot and very important</li>
 			</ul>
-			No submissions
+			No submissions today
 		</td>
 	</tr>
 </table>
@@ -601,7 +601,7 @@
 			</ul>
 		</td>
 		<td width="40%">
-			Due Class 19
+			Due Class 19:
 			<ul>
 				<li>Do: Draft of your portfolio</li>
 				<li>Do: Draft of your proposal / contract</li>
@@ -613,10 +613,85 @@
 				<li>Extra Reading: <a href="https://jwiegley.github.io/git-from-the-bottom-up/">Git from the Bottom Up</a></li>
 				<li>Don't Do - Play yo self - start early even though you have more than a week because this is a lot and very important</li>
 			</ul>
-			No submissions
+			No submissions today
 		</td>
 	</tr>
 </table>
+
+## Week 10
+
+### Class 19: Learn JavaScript Arrays!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/953405017082200157">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/953477287561560064">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1503846066055118849">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="http://mwkworks.com/desiderata.html">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-javascript-arrays">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=YUQUGtUbwMY">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 21:
+			<ul>
+				<li>Read: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md">The JS way - Store data in arrays</a></li>
+				<li>Read: <a href="https://javascript.info/array-methods">JS info - Array methods</a></li>
+				<li>Read: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md">The JS way - Create your first objects</a></li>
+				<li>Read: <a href="https://eloquentjavascript.net/04_data.html">Eloquent JS - Data Structures: Objects and Arrays</a></li>
+				<li>Do: Minimum of 1<a href="https://codewars.com/">Codewars 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!</a></li>
+				<li>Do: <a href="https://javascript30.com/ "></a>Day 04 Array Cardio</li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
+### Class 20: Practice JavaScript Arrays!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/954130228156981258">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/954193959998074890">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1504571048875814918">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://poets.org/poem/dreams">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-array-review-javascript-objects">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=cL0qP6kM_1U">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 21:
+			<ul>
+				<li>Read: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md">The JS way - Store data in arrays</a></li>
+				<li>Read: <a href="https://javascript.info/array-methods">JS info - Array methods</a></li>
+				<li>Read: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md">The JS way - Create your first objects</a></li>
+				<li>Read: <a href="https://eloquentjavascript.net/04_data.html">Eloquent JS - Data Structures: Objects and Arrays</a></li>
+				<li>Do: Minimum of 1<a href="https://codewars.com/">Codewars 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!</a></li>
+				<li>Do: <a href="https://javascript30.com/ "></a>Day 04 Array Cardio</li>
+			</ul>
+		</td>
+	</tr>
+</table>
+
 
 <!-- ## Week 2
 
@@ -625,7 +700,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class )</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -648,6 +723,7 @@
 				<li>: <a href=""></a></li>
 				<li>: <a href=""></a></li>
 			</ul>
+			<a href="https://forms.gle/q9qvPkrH5jKgEfxBA">Submission Link - JS Homework Submission</a>
 		</td>
 	</tr>
 </table>
@@ -657,7 +733,7 @@
 	<tr>
 		<th>Messages / Socials</th>
 		<th>Materials</th>
-		<th>Homeworks (Due: Class )</th>
+		<th>Homeworks</th>
 	</tr>
 	<tr>
 		<td width="20%">
@@ -680,6 +756,7 @@
 				<li>: <a href=""></a></li>
 				<li>: <a href=""></a></li>
 			</ul>
+			<a href="https://forms.gle/q9qvPkrH5jKgEfxBA">Submission Link - JS Homework Submission</a>
 		</td>
 	</tr>
 </table> -->

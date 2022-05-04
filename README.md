@@ -840,6 +840,81 @@
 	</tr>
 </table>
 
+## Week 13
+
+### Class 25: Fix Your Resume So You Get Tech Interviews! 
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/961015534667829268">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/961080669050667029">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1509644411528835084">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://www.youtube.com/watch?v=ZlB4BockYNQ&t=2214s">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 26:
+			<ul>
+				<li>Watch Do: <a href="https://youtu.be/PFmuCDHHpwk">Object-oriented Programming in JavaScript: Made Super Simple | Mosh</a></li>
+				<li>Watch: <a href="https://youtu.be/0fKg7e37bQE​">Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics</a></li>
+				<li>Do: <a href="https://aka.ms/learnwithleon">Intro. To Github (Sponsored)</a></li>
+				<li>Read/Do (Push): <a href="https://javascript.info/ ">JS info - Whole Chapter - Objects: the basics</a></li>
+				<li>Read (Push): <a href="https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219">Pillars of OOP </a></li>
+				<li>Do (Push): <a href="https://github.com/leonnoel/100devs-calculator">Complete and Submit this project (Calculator - 100Devs)</a></li>
+			</ul>
+			No submissions today
+		</td>
+	</tr>
+</table>
+
+### Class 26: Build A Simple App Using APIs! Beginner Friendly!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/961740902248886383">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/961810321813667910">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1512181260801949696">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs-javascript-api-fun">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=WcSTeotmJtw">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 28:
+			<ul>
+				<li>Do: Make the cocktailDB api work with spaces between the names!</li>
+				<li>Do: Find three APIs and build three simple apps using those <a href="https://github.com/public-apis/public-apis">APIs</a> (Not all of these work, but it is a start)</li>
+				<li>Do: Codewars Daily!</li>
+				<li>Do: Anki Daily! </li>
+				<li>Do: Make a rotating list of drinks (an automatic carousel) from the cocktailDB</li>
+				<li>Do: Make the NASA API handle all the data types including video</li>
+				<li>Do: Add an API to your portfolio website</li>
+				<li>Do: A 7kyu Codewars</li>
+			</ul>
+			<a href="https://forms.gle/q9qvPkrH5jKgEfxBA">Submission Link - JS Homework Submission</a>
+		</td>
+	</tr>
+</table>
+
 <!-- ## Week 2
 
 ### Class 3: 

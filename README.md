@@ -993,7 +993,78 @@
 
 No classes
 
+## Week 16
 
+### Class 29: Review The Basics Of JavaScript!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/968625532570832936">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/968695852589781003">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1519066364501061632">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-javascript-review-back-from-break">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=EOjUT746oLs">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 33:
+			<ul>
+				<li>Watch/Do: <a href="https://youtu.be/PFmuCDHHpwk">Object-oriented Programming in JavaScript: Made Super Simple | Mosh</a></li>
+				<li>Read/Do: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md">JS way - Understand object-oriented programming</a></li>
+				<li>Do: 7 Codewars</li>
+				<li>Do/Finish: <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Checklist</a></li>
+				<li>Read/Do (Push): <a href="https://eloquentjavascript.net/06_object.html">Eloquent JS - The Secret Life of Objects</a></li>
+			</ul>
+			No submissions today
+		</td>
+	</tr>
+</table>
+
+### Class 30: OOP Baby!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/969350180841357352">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/969400680110501928">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1519791265285505024">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://youtu.be/_cF377eW0nU">Motivation</a></li>
+				<li><a href="https://slides.com/leonnoel/100devs2-javascript-oop">Slides</a></li>
+				<li><a href="https://www.twitch.tv/learnwithleon/video/1469674524">Recording - Twitch</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 33:
+			<ul>
+				<li>Watch/Do: <a href="https://youtu.be/PFmuCDHHpwk">Object-oriented Programming in JavaScript: Made Super Simple | Mosh</a></li>
+				<li>Read/Do: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter09.md">JS way - Understand object-oriented programming</a></li>
+				<li>Do: 7 Codewars</li>
+				<li>Do/Finish: <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Checklist</a></li>
+				<li>Read/Do (Push): <a href="https://eloquentjavascript.net/06_object.html">Eloquent JS - The Secret Life of Objects</a></li>
+			</ul>
+			No submissions today
+		</td>
+	</tr>
+</table>
 
 <!-- ## Week 2
 

@@ -649,8 +649,8 @@
 				<li>Read: <a href="https://javascript.info/array-methods">JS info - Array methods</a></li>
 				<li>Read: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md">The JS way - Create your first objects</a></li>
 				<li>Read: <a href="https://eloquentjavascript.net/04_data.html">Eloquent JS - Data Structures: Objects and Arrays</a></li>
-				<li>Do: Minimum of 1<a href="https://codewars.com/">Codewars 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!</a></li>
-				<li>Do: <a href="https://javascript30.com/ "></a>Day 04 Array Cardio</li>
+				<li>Do: <a href="https://codewars.com/">Minimum of 1 Codewars 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!</a></li>
+				<li>Do: <a href="https://javascript30.com/">Day 04 Array Cardio</a></li>
 			</ul>
 		</td>
 	</tr>
@@ -685,13 +685,84 @@
 				<li>Read: <a href="https://javascript.info/array-methods">JS info - Array methods</a></li>
 				<li>Read: <a href="https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md">The JS way - Create your first objects</a></li>
 				<li>Read: <a href="https://eloquentjavascript.net/04_data.html">Eloquent JS - Data Structures: Objects and Arrays</a></li>
-				<li>Do: Minimum of 1<a href="https://codewars.com/">Codewars 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!</a></li>
-				<li>Do: <a href="https://javascript30.com/ "></a>Day 04 Array Cardio</li>
+				<li>Do: <a href="https://codewars.com/">Minimum of 1 Codewars 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!</a></li>
+				<li>Do: <a href="https://javascript30.com/">Day 04 Array Cardio</a></li>
 			</ul>
 		</td>
 	</tr>
 </table>
 
+## Week 11
+
+### Class 21: Learn JavaScript Objects!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/955941684158537788">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/956007209182048276">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1506382754010726403">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-javascript-objects">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=75TQEQ6wxAE">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 22:
+			<ul>
+				<li>Read: <a href="https://javascript.info/array-methods">JS info - Array methods</a></li>
+				<li>Do (Again): <a href="https://javascript30.com/ ">Day 04 Array Cardio</a></li>
+				<li>Read: <a href="https://javascript.info/object">JS info - Object</a></li>
+				<li>Do: <a href="https://codewars.com/">Minimum of 1 Codewars 8 Kyu Fundamentals Track EVERY DAY - 20 mins then look at solution!</a></li>
+			</ul>
+			No submissions today
+		</td>
+	</tr>
+</table>
+
+### Class 22: Practice JavaScript Objects!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/956666816464318564">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/956733435861409883">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1507107645416620041">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-more-javascript-objects">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=LTda62-jyoM">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 24:
+			<ul>
+				<li>Watch Do: <a href="https://youtu.be/PFmuCDHHpwk">Object-oriented Programming in JavaScript: Made Super Simple | Mosh</a></li>
+				<li>Watch: <a href="https://youtu.be/0fKg7e37bQE​">Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics</a></li>
+				<li>Do: <a href="https://aka.ms/learnwithleon">Intro. To Github (Sponsored)</a></li>
+				<li>Read/Do (Push): <a href="https://javascript.info/ ">JS info - Whole Chapter - Objects: the basics</a></li>
+				<li>Read (Push): <a href="https://medium.com/@hamzzza.ahmed95/four-pillars-of-object-oriented-programming-oop-e8d7822aa219">Pillars of OOP </a></li>
+				<li>Do (Push): <a href="https://github.com/leonnoel/100devs-calculator">Complete and Submit this project (Calculator - 100Devs)</a></li>
+			</ul>
+			<a href="https://forms.gle/jK41o5QGNdzY8rPk9">Submission Link - JS Homework Submission (Task Codes)</a>
+		</td>
+	</tr>
+</table>
 
 <!-- ## Week 2
 

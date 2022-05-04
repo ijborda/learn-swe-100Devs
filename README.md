@@ -539,6 +539,82 @@
 	</tr>
 </table>
 
+## Week 9
+
+### Class 17: Let's Practice Our Networking!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/950884055979794463">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/950952147250479165">Post-class message</a></li>
+				<li>No Check-In - Twitter</li>
+			</ul>
+		</td>
+		<td width="20%">
+			None
+		</td>
+		<td width="40%">
+			<ul>Due Class 18
+				<li>Do: Draft of your portfolio</li>
+				<li>Do: Draft of your proposal / contract</li>
+			</ul>
+			<ul>Due Class 19
+				<li>Read: <a href="https://www.poetryfoundation.org/poems/51642/invictus">Poetry - Invictus</a></li>
+				<li>Read: <a href="https://github.com/bpesquet/thejsway">(3, 2, 1... Code! through Write Functions)</a></li>
+				<li>Read: <a href="http://eloquentjavascript.net/3rd_edition/">Eloquent JavaScript (Chapters 1 - 3)</a></li>
+				<li>Do: <a href="https://www.codecademy.com/learn/introduction-to-javascript">Code Academy (1-6)</a></li>
+				<li>Watch: <a href="https://youtu.be/SWYqp7iY_Tc">Git & GitHub Crash Course For Beginners</a></li>
+				<li>Extra Reading: <a href="https://jwiegley.github.io/git-from-the-bottom-up/">Git from the Bottom Up</a></li>
+				<li>Don't Do - Play yo self - start early even though you have more than a week because this is a lot and very important</li>
+			</ul>
+			No submissions
+		</td>
+	</tr>
+</table>
+
+### Class 18: Let's Work In Teams For A Project Night!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/951608153055830026">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/951669752307277924">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1502049287454306304">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				None
+			</ul>
+		</td>
+		<td width="40%">
+			<ul>Due Class 19
+				<li>Do: Draft of your portfolio</li>
+				<li>Do: Draft of your proposal / contract</li>
+				<li>Read: <a href="https://www.poetryfoundation.org/poems/51642/invictus">Poetry - Invictus</a></li>
+				<li>Read: <a href="https://github.com/bpesquet/thejsway">(3, 2, 1... Code! through Write Functions)</a></li>
+				<li>Read: <a href="http://eloquentjavascript.net/3rd_edition/">Eloquent JavaScript (Chapters 1 - 3)</a></li>
+				<li>Do: <a href="https://www.codecademy.com/learn/introduction-to-javascript">Code Academy (1-6)</a></li>
+				<li>Watch: <a href="https://youtu.be/SWYqp7iY_Tc">Git & GitHub Crash Course For Beginners</a></li>
+				<li>Extra Reading: <a href="https://jwiegley.github.io/git-from-the-bottom-up/">Git from the Bottom Up</a></li>
+				<li>Don't Do - Play yo self - start early even though you have more than a week because this is a lot and very important</li>
+			</ul>
+			No submissions
+		</td>
+	</tr>
+</table>
+
 <!-- ## Week 2
 
 ### Class 3: 

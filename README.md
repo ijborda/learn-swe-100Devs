@@ -910,10 +910,90 @@
 				<li>Do: Add an API to your portfolio website</li>
 				<li>Do: A 7kyu Codewars</li>
 			</ul>
-			<a href="https://forms.gle/q9qvPkrH5jKgEfxBA">Submission Link - JS Homework Submission</a>
+			No submissions today
 		</td>
 	</tr>
 </table>
+
+## Week 14
+
+### Class 27: Get Data From NASA! Simple Javascript API! 
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/963551906142236702">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/963620968448811018">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1513992949884809219">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-more-api-review">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=b5rjEW-_6po">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 28:
+			<ul>
+				<li>Do: Make the cocktailDB api work with spaces between the names!</li>
+				<li>Do: Find three APIs and build three simple apps using those <a href="https://github.com/public-apis/public-apis">APIs</a> (Not all of these work, but it is a start)</li>
+				<li>Do: Codewars Daily!</li>
+				<li>Do: Anki Daily! </li>
+				<li>Do: Make a rotating list of drinks (an automatic carousel) from the cocktailDB</li>
+				<li>Do: Make the NASA API handle all the data types including video</li>
+				<li>Do: Add an API to your portfolio website</li>
+				<li>Do: A 7kyu Codewars</li>
+			</ul>
+			No submissions today
+		</td>
+	</tr>
+</table>
+
+### Class 28: JavaScript API Practice For Beginners!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/964277087638794240">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/964341826356138014">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1514718089618722816">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-another-api-review">Slides</a></li>
+				<li><a href="https://www.youtube.com/watch?v=G7XJRLaq2Cw">Recording - Youtube</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 31:
+			<ul>
+				<li>Do: Catch Up</li>
+				<li>Do: <a href="https://www.codecademy.com/learn/introduction-to-javascript ">Intro to JS Course (~30 hours)</a></li>
+				<li>Do: <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Checklist</a></li>
+			</ul>
+			<a href="https://forms.gle/mSR6TGf7F6iN54Wy5">Submission Link - API Work</a>
+		</td>
+	</tr>
+</table>
+
+
+## Week 15
+
+No classes
+
+
 
 <!-- ## Week 2
 

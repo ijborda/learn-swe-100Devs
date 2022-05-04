@@ -560,11 +560,13 @@
 			None
 		</td>
 		<td width="40%">
-			<ul>Due Class 18
+			Due Class 18
+			<ul>
 				<li>Do: Draft of your portfolio</li>
 				<li>Do: Draft of your proposal / contract</li>
 			</ul>
-			<ul>Due Class 19
+			Due Class 19
+			<ul>
 				<li>Read: <a href="https://www.poetryfoundation.org/poems/51642/invictus">Poetry - Invictus</a></li>
 				<li>Read: <a href="https://github.com/bpesquet/thejsway">(3, 2, 1... Code! through Write Functions)</a></li>
 				<li>Read: <a href="http://eloquentjavascript.net/3rd_edition/">Eloquent JavaScript (Chapters 1 - 3)</a></li>
@@ -599,7 +601,8 @@
 			</ul>
 		</td>
 		<td width="40%">
-			<ul>Due Class 19
+			Due Class 19
+			<ul>
 				<li>Do: Draft of your portfolio</li>
 				<li>Do: Draft of your proposal / contract</li>
 				<li>Read: <a href="https://www.poetryfoundation.org/poems/51642/invictus">Poetry - Invictus</a></li>

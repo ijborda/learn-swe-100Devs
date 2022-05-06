@@ -1200,6 +1200,40 @@ No classes
 	</tr>
 </table>
 
+### Class 32: OOP THEN PROJECTS BABY!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/971887231323217981">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/971939776343195678">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1522328349497909248">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-javascript-oop-bring-it-home">Slides</a></li>
+				<li><a href="https://www.twitch.tv/videos/1476077065">Recording - Twitch</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 33:
+			<ul>
+				<li>DO: Finish Team Project</li>
+				<li>Do/Finish: <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Checklist</a></li>
+				<li>Do (Push): Codewars Array Ladder (search array problems) - 8kyu, 7kyu, 6kyu, 7kyu, 8kyu</li>
+			</ul>
+			No submissions today
+		</td>
+	</tr>
+</table>
+
+
 <!-- ### Class 32: 
 <table width="100%" margin-left="auto" margin-right="auto">
 	<tr>

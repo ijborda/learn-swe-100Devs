@@ -1233,6 +1233,47 @@ No classes
 	</tr>
 </table>
 
+## Week 18
+
+### Class 33: How To Get A Job!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/973698746028273684">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/973765399965487204">Post-class message</a></li>
+				<li><a href="https://twitter.com/scastanos_">No Check-In (Follow RC's Fairy Job Mother)</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://www.twitch.tv/videos/1480499064">Recording - Twitch</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 35:
+			<ul>
+				<li>READ/DO: <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await">How to use promises</a></li>
+				<li>WATCH/DO: <a href="ttps://youtu.be/vn3tm0quoqE">The Async Await Episode I Promised</a></li>
+				<li>TYPE OUT ALL THE EXAMPLES!!!</a></li>
+				<li>DO (Push): <a href="https://javascript.info/async">Promises, async/await</a></li>
+			</ul>
+			Due Class 36:
+			<ul>
+				<li>DO: Start prepping THE BANK</li>
+				<li>DO: Complete Your Professional Links</li>
+				<li>READ: <a href="https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70">Modern Javascript For Dinosaurs</a></li>
+				<li>WATCH: <a href="https://youtu.be/fBNz5xF-Kx4">Node.js Crash Course (just get through it)</a></li>
+			</ul>
+			No submissions today
+		</td>
+	</tr>
+</table>
 
 <!-- ### Class 32: 
 <table width="100%" margin-left="auto" margin-right="auto">

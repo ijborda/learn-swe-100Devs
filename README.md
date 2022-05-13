@@ -1259,7 +1259,7 @@ No classes
 			Due Class 35:
 			<ul>
 				<li>READ/DO: <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await">How to use promises</a></li>
-				<li>WATCH/DO: <a href="ttps://youtu.be/vn3tm0quoqE">The Async Await Episode I Promised</a></li>
+				<li>WATCH/DO: <a href="https://youtu.be/vn3tm0quoqE">The Async Await Episode I Promised</a></li>
 				<li>TYPE OUT ALL THE EXAMPLES!!!</a></li>
 				<li>DO (Push): <a href="https://javascript.info/async">Promises, async/await</a></li>
 			</ul>
@@ -1300,7 +1300,7 @@ No classes
 			Due Class 35:
 			<ul>
 				<li>READ/DO: <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await">How to use promises</a></li>
-				<li>WATCH/DO: <a href="ttps://youtu.be/vn3tm0quoqE">The Async Await Episode I Promised</a></li>
+				<li>WATCH/DO: <a href="https://youtu.be/vn3tm0quoqE">The Async Await Episode I Promised</a></li>
 				<li>TYPE OUT ALL THE EXAMPLES!!!</a></li>
 				<li>DO (Push): <a href="https://javascript.info/async">Promises, async/await</a></li>
 			</ul>

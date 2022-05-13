@@ -1265,7 +1265,7 @@ No classes
 			</ul>
 			Due Class 36:
 			<ul>
-				<li>DO: Start prepping THE BANK</li>
+				<li>DO: Start prepping <a href="https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c/edit">THE BANK</a></li>
 				<li>DO: Complete Your Professional Links</li>
 				<li>READ: <a href="https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70">Modern Javascript For Dinosaurs</a></li>
 				<li>WATCH: <a href="https://youtu.be/fBNz5xF-Kx4">Node.js Crash Course (just get through it)</a></li>
@@ -1306,7 +1306,7 @@ No classes
 			</ul>
 			Due Class 36:
 			<ul>
-				<li>DO: Start prepping THE BANK</li>
+				<li>DO: Start prepping <a href="https://docs.google.com/document/d/1p7DhCsLOMMybYfePWLlD1-_8KU20zkBoArH4pnW1o3c/edit">THE BANK</a></li>
 				<li>DO: Complete Your Professional Links</li>
 				<li>READ: <a href="https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70">Modern Javascript For Dinosaurs</a></li>
 				<li>WATCH: <a href="https://youtu.be/fBNz5xF-Kx4">Node.js Crash Course (just get through it)</a></li>

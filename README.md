@@ -1316,6 +1316,90 @@ No classes
 	</tr>
 </table>
 
+## Week 19
+
+### No class
+
+
+### Class 35: BACKEND BABY (Node.js)!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/976960499906387978">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/977022929479028766">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1527401326325338118">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-promises-async-node">Slides</a></li>
+				<li><a href="https://www.twitch.tv/videos/1488493586">Recording - Twitch</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 36:
+			<ul>
+				<li>Do: Start prepping THE BANK</li>
+				<li>Do: Complete Your <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Links</a></li>
+				<li>Do: Make node-backend-simple-json more readable</li>
+				<li>Do: Make a coinflip game where the randomization happens server side</li>
+			</ul>
+			<a href="https://forms.gle/Ha27LvZAJsFiY2Dx7">Freelancing Submission</a>
+			<a href="https://forms.gle/Pt7kwXndftDedcbX8">Professional Links Submission</a>
+		</td>
+	</tr>
+</table>
+
+## Week 20
+
+### Class 36: Backing That Backend Back UP!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/978772278944866334">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/978836004150603797">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1529213324633657345">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-fancy-js-terms-and-node">Slides</a></li>
+				<li><a href="https://www.twitch.tv/videos/1308129980">Recording - Twitch</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due Class 37:
+			<ul>
+				<li>Do: Start prepping THE BANK</li>
+				<li>Do: Complete Your <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Links</a></li>
+				<li>Do: Make node-backend-simple-json more readable</li>
+				<li>Do: Make a coinflip game where the randomization happens server side</li>
+			</ul>
+			Due Class 38:
+			<ul>
+				<li>Watch: <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">What the heck is the event loop anyway? | Philip Roberts | JSConf EU</a></li>
+				<li>Watch: <a href="https://www.youtube.com/watch?v=cCOL7MC4Pl0">Jake Archibald: In The Loop - JSConf.Asia</a></li>
+				<li>Do: <a href="https://zellwk.com/blog/crud-express-mongodb/">Building a Simple CRUD app with Node, Express, and MongoDB</a></li>
+			</ul>
+			<a href="https://forms.gle/Ha27LvZAJsFiY2Dx7">Freelancing Submission</a>
+			<a href="https://forms.gle/Pt7kwXndftDedcbX8">Professional Links Submission</a>
+		</td>
+	</tr>
+</table>
+
+
 <!-- ## Week 2
 
 ### Class 3: 

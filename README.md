@@ -1391,7 +1391,7 @@ No classes
 			<ul>
 				<li>Watch: <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">What the heck is the event loop anyway? | Philip Roberts | JSConf EU</a></li>
 				<li>Watch: <a href="https://www.youtube.com/watch?v=cCOL7MC4Pl0">Jake Archibald: In The Loop - JSConf.Asia</a></li>
-				<li>Do: <a href="https://zellwk.com/blog/crud-express-mongodb/">Building a Simple CRUD app with Node, Express, and MongoDB</a></li>
+				<li>Do (Super Important): <a href="https://zellwk.com/blog/crud-express-mongodb/">Building a Simple CRUD app with Node, Express, and MongoDB</a></li>
 			</ul>
 			<a href="https://forms.gle/Ha27LvZAJsFiY2Dx7">Freelancing Submission</a>
 			<a href="https://forms.gle/Pt7kwXndftDedcbX8">Professional Links Submission</a>
@@ -1399,10 +1399,7 @@ No classes
 	</tr>
 </table>
 
-
-<!-- ## Week 2
-
-### Class 3: 
+### Class 37: Backing That Backend Back UP!
 <table width="100%" margin-left="auto" margin-right="auto">
 	<tr>
 		<th>Messages / Socials</th>
@@ -1412,58 +1409,30 @@ No classes
 	<tr>
 		<td width="20%">
 			<ul>
-				<li><a href="">Pre-class message</a></li>
-				<li><a href="">Post-class message</a></li>
-				<li><a href="">Check-In - Twitter</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/979497037517168640">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/979559337234137158">Post-class message</a></li>
+				<li>No check-in today</li>
 			</ul>
 		</td>
 		<td width="20%">
 			<ul>
-				<li><a href="">Motivation</a></li>
-				<li><a href="">Slides</a></li>
-				<li><a href="">Recording - Youtube</a></li>
+				<li>No slides today</li>
+				<li><a href="https://www.twitch.tv/videos/1309925272">Recording - Twitch</a></li>
 			</ul>
 		</td>
 		<td width="40%">
+			Due Class 38:
 			<ul>
-				<li>: <a href=""></a></li>
-				<li>: <a href=""></a></li>
-				<li>: <a href=""></a></li>
+				<li>Do: Start prepping THE BANK</li>
+				<li>Do: Complete Your <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Links</a></li>
+				<li>Do: Make node-backend-simple-json more readable</li>
+				<li>Do: Make a coinflip game where the randomization happens server side</li>
+				<li>Watch: <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">What the heck is the event loop anyway? | Philip Roberts | JSConf EU</a></li>
+				<li>Watch: <a href="https://www.youtube.com/watch?v=cCOL7MC4Pl0">Jake Archibald: In The Loop - JSConf.Asia</a></li>
+				<li>Do (Super Important): <a href="https://zellwk.com/blog/crud-express-mongodb/">Building a Simple CRUD app with Node, Express, and MongoDB</a></li>
 			</ul>
-			<a href="https://forms.gle/q9qvPkrH5jKgEfxBA">Submission Link - JS Homework Submission</a>
+			<a href="https://forms.gle/Ha27LvZAJsFiY2Dx7">Freelancing Submission</a>
+			<a href="https://forms.gle/Pt7kwXndftDedcbX8">Professional Links Submission</a>
 		</td>
 	</tr>
 </table>
-
-### Class 4: 
-<table width="100%" margin-left="auto" margin-right="auto">
-	<tr>
-		<th>Messages / Socials</th>
-		<th>Materials</th>
-		<th>Homeworks</th>
-	</tr>
-	<tr>
-		<td width="20%">
-			<ul>
-				<li><a href="">Pre-class message</a></li>
-				<li><a href="">Post-class message</a></li>
-				<li><a href="">Check-In - Twitter</a></li>
-			</ul>
-		</td>
-		<td width="20%">
-			<ul>
-				<li><a href="">Motivation</a></li>
-				<li><a href="">Slides</a></li>
-				<li><a href="">Recording - Youtube</a></li>
-			</ul>
-		</td>
-		<td width="40%">
-			<ul>
-				<li>: <a href=""></a></li>
-				<li>: <a href=""></a></li>
-				<li>: <a href=""></a></li>
-			</ul>
-			<a href="https://forms.gle/q9qvPkrH5jKgEfxBA">Submission Link - JS Homework Submission</a>
-		</td>
-	</tr>
-</table> -->

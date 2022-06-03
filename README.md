@@ -1522,8 +1522,7 @@ No classes
         <li>Read: <a href="https://fullstackopen.com/en/part3/node_js_and_express">Node.js and Express (Fullstack Open)</a></li>
         <li>Do: Make Your Own API and Push To Heroku</li>
 			</ul>
-			<a href="https://forms.gle/Ha27LvZAJsFiY2Dx7">Freelancing Submission</a>
-			<a href="https://forms.gle/Pt7kwXndftDedcbX8">Professional Links Submission</a>
+			No submissions today
 		</td>
 	</tr>
 </table>

@@ -1436,3 +1436,94 @@ No classes
 		</td>
 	</tr>
 </table>
+
+# Week 21
+
+### Class 38: BUILD AN API w/ EXPRESS!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/981308994406735912">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/981384235568996352">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1531750076422402049">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-node-express">Slides</a></li>
+				<li><a href="https://www.twitch.tv/videos/1314364367">Recording - Twitch</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due this class:
+			<ul>
+				<li>Do: Start prepping THE BANK</li>
+				<li>Do: Complete Your <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Links</a></li>
+				<li>Do: Make node-backend-simple-json more readable</li>
+				<li>Do: Make a coinflip game where the randomization happens server side</li>
+        <li>Watch: <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">What the heck is the event loop anyway? | Philip Roberts | JSConf EU</a></li>
+				<li>Watch: <a href="https://www.youtube.com/watch?v=cCOL7MC4Pl0">Jake Archibald: In The Loop - JSConf.Asia</a></li>
+				<li>Do (Super Important): <a href="https://zellwk.com/blog/crud-express-mongodb/">Building a Simple CRUD app with Node, Express, and MongoDB</a></li>
+			</ul>
+			Due Class 39:
+			<ul>
+        <li>Do: Start prepping THE BANK</li>
+				<li>Do: Complete Your <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Links</a></li>
+        <li>Create: Heroku, Mongo Atlas, and Postman Accounts</li>
+        <li>Read: <a href="https://fullstackopen.com/en/part3/node_js_and_express">Node.js and Express (Fullstack Open)</a></li>
+        <li>Do: Make Your Own API and Push To Heroku</li>
+			</ul>
+      No submissions today
+		</td>
+	</tr>
+</table>
+
+### Class 39: BUILD AN API & HOST IT!
+<table width="100%" margin-left="auto" margin-right="auto">
+	<tr>
+		<th>Messages / Socials</th>
+		<th>Materials</th>
+		<th>Homeworks</th>
+	</tr>
+	<tr>
+		<td width="20%">
+			<ul>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/982034083737665657">Pre-class message</a></li>
+				<li><a href="https://discord.com/channels/735923219315425401/738891289071714388/982097340292792380">Post-class message</a></li>
+				<li><a href="https://twitter.com/leonnoel/status/1532474747346247681">Check-In - Twitter</a></li>
+			</ul>
+		</td>
+		<td width="20%">
+			<ul>
+				<li><a href="https://slides.com/leonnoel/100devs2-node-express-again">Slides</a></li>
+				<li><a href="https://www.twitch.tv/videos/1316131994">Recording - Twitch</a></li>
+			</ul>
+		</td>
+		<td width="40%">
+			Due this class:
+			<ul>
+        <li>Do: Start prepping THE BANK</li>
+				<li>Do: Complete Your <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Links</a></li>
+        <li>Create: Heroku, Mongo Atlas, and Postman Accounts</li>
+        <li>Read / Play With: Our Code From Today</li>
+        <li>Dream: About The API You Are Going To Build THURSDAY!</li>
+			</ul>
+      Due Class 40:
+			<ul>
+        <li>Do: Start prepping THE BANK</li>
+				<li>Do: Complete Your <a href="https://docs.google.com/document/d/1L2vTX3qvLhoGHeG5cVD2ljCfRGr1uJ_Gf-hNZj9KzTg">Professional Links</a></li>
+        <li>Create: Heroku, Mongo Atlas, and Postman Accounts</li>
+        <li>Read: <a href="https://fullstackopen.com/en/part3/node_js_and_express">Node.js and Express (Fullstack Open)</a></li>
+        <li>Do: Make Your Own API and Push To Heroku</li>
+			</ul>
+			<a href="https://forms.gle/Ha27LvZAJsFiY2Dx7">Freelancing Submission</a>
+			<a href="https://forms.gle/Pt7kwXndftDedcbX8">Professional Links Submission</a>
+		</td>
+	</tr>
+</table>
